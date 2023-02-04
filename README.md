@@ -92,7 +92,6 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
 
 ## Usabilidade
 
-![img](https://i.imgur.com/u5LoWWm.gif)
-
+![felipe dimensions](https://i.imgur.com/u5LoWWm.gif)
 
 
