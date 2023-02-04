@@ -6,7 +6,7 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
 1. Acesse a sua propriedade do GA4
 2. Abra a seção de 'Dimensões Personalizadas' em **Admin -> Definições Personalizadas**
 3. Abra o Console do Developer Tools no seu navegador (**atalho: CTRL+SHIFT+J**)
-4. Copie o código abaixo, Cole no Console e pressione Enter.
+4. Copie o código que está no final dessa página, Cole no Console e pressione Enter.
 5. Se abrir uma janela de Debug igual imagem abaixo, feche o Console (**atalho: CTRL+SHIFT+J**)
 
 ![https://i.imgur.com/8q9QKxY.gif](https://i.imgur.com/8q9QKxY.gif)
