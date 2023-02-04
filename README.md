@@ -8,6 +8,9 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
 3. Abra o Console do Developer Tools no seu navegador (**atalho: CTRL+SHIFT+J**)
 4. Copie o código abaixo, Cole no Console e pressione Enter.
 5. Se abrir uma janela de Debug igual imagem abaixo, feche o Console (**atalho: CTRL+SHIFT+J**)
+
+![https://i.imgur.com/8q9QKxY.gif](https://i.imgur.com/8q9QKxY.gif)
+
 ```js
 /*!
  * Felipe-Dimensions-GA4 v1.0.0
