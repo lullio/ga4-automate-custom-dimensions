@@ -85,7 +85,9 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
 <details>
 <summary>5. Se abrir uma janela de Debug igual imagem abaixo, feche o Console (**atalho: CTRL+SHIFT+J**)</summary>
 <br>
+   
 ![felipe dimensions](https://i.imgur.com/8q9QKxY.gif)
+   
 </details>
 
 ---
