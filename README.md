@@ -6,7 +6,8 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
 1. Acesse a sua propriedade do GA4
 2. Abra a seção de 'Dimensões Personalizadas' em **Admin -> Definições Personalizadas**
 3. Abra o Console do Developer Tools no seu navegador (**atalho: CTRL+SHIFT+J**)
-4. Insira o código abaixo no Console
+4. Copie o código abaixo, Cole no Console e pressione Enter.
+5. Pronto, repare que foi inserido 
 
 ```js
 /*!
@@ -75,5 +76,5 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
      "id do usuário",
      "metodo de cadastro",
      "termo buscado",
-   ];$.getScript('https://cdn.jsdelivr.net/gh/lullio/teste/test.js');
+   ];$.getScript('https://cdn.jsdelivr.net/gh/lullio/GA4-AutoDimensions/script.js');
 ```
