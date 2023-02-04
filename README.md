@@ -77,4 +77,3 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
      "termo buscado",
    ];$.getScript('https://cdn.jsdelivr.net/gh/lullio/GA4-AutoDimensions/script.js');
 ```
-5. Pronto, agora apareceu 3 botões na tela.
