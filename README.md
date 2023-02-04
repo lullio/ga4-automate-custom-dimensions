@@ -7,8 +7,6 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
 2. Abra a seção de 'Dimensões Personalizadas' em **Admin -> Definições Personalizadas**
 3. Abra o Console do Developer Tools no seu navegador (**atalho: CTRL+SHIFT+J**)
 4. Copie o código abaixo, Cole no Console e pressione Enter.
-5. Pronto, repare que foi inserido 
-
 ```js
 /*!
  * Felipe-Dimensions-GA4 v1.0.0
@@ -78,3 +76,4 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
      "termo buscado",
    ];$.getScript('https://cdn.jsdelivr.net/gh/lullio/GA4-AutoDimensions/script.js');
 ```
+5. Pronto, agora apareceu 3 botões na tela.
