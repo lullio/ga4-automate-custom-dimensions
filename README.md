@@ -7,6 +7,7 @@ Criei este projeto para facilitar/automatizar a criação de dimensões personal
 2. Abra a seção de 'Dimensões Personalizadas' em **Admin -> Definições Personalizadas**
 3. Abra o Console do Developer Tools no seu navegador (**atalho: CTRL+SHIFT+J**)
 4. Copie o código abaixo, Cole no Console e pressione Enter.
+5. Se abrir uma janela de Debug igual imagem abaixo, feche o Console (**atalho: CTRL+SHIFT+J**)
 ```js
 /*!
  * Felipe-Dimensions-GA4 v1.0.0
