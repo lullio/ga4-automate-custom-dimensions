@@ -1,4 +1,4 @@
-# GA4-AutoDimensions
+# GA4 - Automate Custom Dimensions 
 Criei este projeto para facilitar/automatizar a criação de dimensões personalizadas no GA4 pelo front-end sem a necessidade de acessar a API.
 
 ## STEP BY STEP
